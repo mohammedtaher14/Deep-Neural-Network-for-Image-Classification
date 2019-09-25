@@ -1,2 +1,2 @@
 # Deep-Neural-Network-for-Image-Classification
-build a deep network, and apply it to cat vs non-cat image classification.
+using Nueral netwtork to build an object recognizer to determine if a certain object is in a certain image or not
